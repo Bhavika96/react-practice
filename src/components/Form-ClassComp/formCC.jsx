@@ -74,7 +74,7 @@ class FormCC extends React.Component {
                     <p>Email: {email}</p>
                     <p>Phone: {phone}</p>
                     <p>Are you Married : {isMarried ? 'Yes' : 'No'}</p>
-                    <p>I am : {isCitizen ? 'Indian' : 'Not Indian'}</p>
+                    <p>I am : {isCitizen ? 'an Indian' : 'Not an Indian'}</p>
                     <p>Message: {message}</p>
                     <p>Gender: {gender}</p>
                 </div>
